@@ -44,3 +44,13 @@
 - img, css, js files can be added.
 
 ---
+
+## API vs SSR(server side rendering)
+- API -JSON and SSR - Template
+- Send data vs send template
+- Res.json() vs res.render()
+
+---
+
+### response.json()
+- [https://expressjs.com/en/4x/api.html#res.json](https://expressjs.com/en/4x/api.html#res.json)
