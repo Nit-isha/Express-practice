@@ -36,3 +36,11 @@
 
 ### MIME
 - [https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)
+
+### express.static (static status)
+- Built in middleware
+- static asset means server doesn't have to change it.
+- Common names of folder is "public or static".
+- img, css, js files can be added.
+
+---
