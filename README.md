@@ -4,6 +4,9 @@
 - POST
 - PUT
 - DELETE
+- ALL
+- USE
+- LISTEN
   
 ---
 ### General structure of request message
