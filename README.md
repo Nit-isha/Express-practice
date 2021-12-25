@@ -21,3 +21,15 @@
 - We get json data application/json
 
 ---
+
+- For http we have port : 80
+- For SSH(secure shell) : 22
+- For https protocol : port 443
+
+---
+
+### HTTP response status codes
+- [https://developer.mozilla.org/en-US/docs/Web/HTTP/Status](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+
+### MIME
+- [https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)
