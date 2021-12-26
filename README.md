@@ -70,5 +70,6 @@
 - req => middleware => res
 - use vs route
 - options: our own, express, third party
+- URL encoded middleware [https://expressjs.com/en/5x/api.html#express.urlencoded](https://expressjs.com/en/5x/api.html#express.urlencoded)
 
 ---
