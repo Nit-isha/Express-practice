@@ -55,8 +55,18 @@
 ### response.json()
 - [https://expressjs.com/en/4x/api.html#res.json](https://expressjs.com/en/4x/api.html#res.json)
   
+---
+
 ### query
 - e.g. /search?query=foo&tags=story
 - sort 
 - ? searching from database
-  
+
+---
+
+### Middleware
+- Functions that execute during the request to the server.
+- Each middleware has access to request ans response object.
+- req => middleware => res
+
+---
