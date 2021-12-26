@@ -31,3 +31,6 @@ app.get("/api/products/:productID", (req, res) => {
 app.listen(5000, () => {
   console.log("Serve listening on port 5000");
 });
+
+//app.get('/api/products/:productID/reviews/:reviewID')
+// then in browser localhost:5000/api/product/4/reviews/abc

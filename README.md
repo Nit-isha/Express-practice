@@ -54,3 +54,9 @@
 
 ### response.json()
 - [https://expressjs.com/en/4x/api.html#res.json](https://expressjs.com/en/4x/api.html#res.json)
+  
+### query
+- e.g. /search?query=foo&tags=story
+- sort 
+- ? searching from database
+  
