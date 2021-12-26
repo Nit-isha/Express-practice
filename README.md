@@ -68,5 +68,7 @@
 - Functions that execute during the request to the server.
 - Each middleware has access to request ans response object.
 - req => middleware => res
+- use vs route
+- options: our own, express, third party
 
 ---
